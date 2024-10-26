@@ -3,9 +3,9 @@ Object-Oriented Programming (OOP) in Rust can be approached through concepts lik
 Here’s a breakdown of OOP concepts in Rust with examples:
 
 ### Table of Contents
-- 1. Encapsulation with Structs and Methods
-- 2. Inheritance with Traits
-- 3. Polymorphism with Trait Objects
+-  Encapsulation with Structs and Methods
+-  Inheritance with Traits
+-  Polymorphism with Trait Objects
 Example: A Simple Object-Oriented Program
 ### 1. Encapsulation with Structs and Methods
 In Rust, we encapsulate data by defining structs and implementing associated methods with impl. Private fields are restricted by using the pub keyword.
